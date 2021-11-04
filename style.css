@@ -22,6 +22,7 @@ h1{
 
 h2{
     margin-bottom: 40px;
+    font-size: 25px;
 }
 
 h3{
@@ -46,7 +47,7 @@ h3{
 
 .align{
     text-align: center;
-    margin-top: 150px;
+    margin-top: 100px;
 }
 
 .btn{
@@ -62,6 +63,7 @@ h3{
     border: none;
     transition: 0.2s ease-out;
     cursor: pointer;
+    margin-bottom: 50px;
 }
 
 .btn:hover{
